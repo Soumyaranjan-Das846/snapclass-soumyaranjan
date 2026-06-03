@@ -1,4 +1,4 @@
-# streamlit
+streamlit
 # Utilitites 
 numpy
 pandas
@@ -22,5 +22,5 @@ streamlit
 
 
 
-# librosa
-# resemblyzer
+librosa
+resemblyzer
