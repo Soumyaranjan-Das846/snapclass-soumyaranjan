@@ -119,9 +119,7 @@ python app.py
 
 ---
 
-## 📸 Demo
 
-Add screenshots and project walkthrough GIFs here.
 
 ---
 
